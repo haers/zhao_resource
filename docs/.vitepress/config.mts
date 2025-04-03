@@ -13,10 +13,18 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '百家讲坛', link: '/baijiajiangtan' },
-      { text: '教育【书籍/课程/教辅/小说】', link: '/markdown-examples' },
+      { text: '教育【书籍/课程/教辅/小说】', link: '/jiaoyu' 
+       },
       { text: '软件【Windows 软件，苹果软件，黑科技】', link: '/' },
-      { text: '影视【电影，电视剧，综艺，动漫】', link: '/' },
-      { text: '音乐', link: '/' },
+      { text: '影视',
+        items: [
+          { text: '电影', link: '/item-1' },
+          { text: '电视剧', link: '/item-2' },
+          { text: '综艺', link: '/item-3' },
+          { text: '动漫', link: '/item-3' },
+          { text: '音乐', link: '/item-3' },
+        ]
+       },
     ],
 
     sidebar: [
