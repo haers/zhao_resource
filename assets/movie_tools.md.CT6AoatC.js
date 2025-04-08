@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as o}from"./chunks/framework.BO5IiCLP.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"movie/tools.md","filePath":"movie/tools.md","lastUpdated":1743846256000}'),a={name:"movie/tools.md"};function s(r,c,n,i,d,l){return e(),o("div")}const _=t(a,[["render",s]]);export{p as __pageData,_ as default};

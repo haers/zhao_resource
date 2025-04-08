@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.BO5IiCLP.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"movie/mac.md","filePath":"movie/mac.md","lastUpdated":1743846256000}'),o={name:"movie/mac.md"};function c(r,s,m,n,i,d){return t(),a("div")}const f=e(o,[["render",c]]);export{_ as __pageData,f as default};
