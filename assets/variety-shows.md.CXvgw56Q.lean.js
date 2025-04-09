@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as a}from"./chunks/framework.BO5IiCLP.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"variety-shows.md","filePath":"variety-shows.md","lastUpdated":1743834415000}'),s={name:"variety-shows.md"};function r(o,c,n,i,d,p){return t(),a("div")}const f=e(s,[["render",r]]);export{m as __pageData,f as default};

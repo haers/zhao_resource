@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.DY3BU43b.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"anime.md","filePath":"anime.md","lastUpdated":1743834415000}'),n={name:"anime.md"};function r(o,s,c,i,m,d){return t(),a("div")}const f=e(n,[["render",r]]);export{_ as __pageData,f as default};
