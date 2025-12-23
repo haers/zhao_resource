@@ -1,0 +1,40 @@
+---
+sidebar: false
+outline: false
+editLink: false
+prev: false
+next: false
+---
+
+
+
+
+# 赞助
+
+
+> [!IMPORTANT] 关于更新
+> 
+> 每天对于新资源我都会更新，有啥需要找的资源可以加我微信，rescqcc
+> 
+> 以下赞助感谢大家支持～
+
+## 微信&支付宝
+
+<!-- ![微信](./public/wxzsm.jpg)
+
+![支付宝](./public/zfbzsm.jpeg) -->
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="./public/wxzsm.jpg" alt="微信" style="width: 45%;"/>
+  <img src="./public/zfbzsm.jpeg" alt="支付宝" style="width: 45%;"/>
+</div>
+
+
+<!-- ## 2025-3-10
+
+- 更新 [toc显示多级标题](./markdown.md#目录) 使用说明 -->
+
+<!-- <div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="./wxzsm.jpg" alt="微信" style="width: 45%;"/>
+  <img src="./zfbzsm.jpeg" alt="支付宝" style="width: 45%;"/>
+</div> -->
