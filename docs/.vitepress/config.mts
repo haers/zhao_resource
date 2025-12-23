@@ -11,7 +11,7 @@ export default defineConfig({
   // titleTemplate: ':title ｜ 小赵资源站',
   description: "小赵资源站,百家讲坛,电影,电视剧,动漫,小说,音乐,游戏,软件,学习资源,夸克资源",
   sitemap: {
-    hostname: 'https://res.cqcc.cc'
+    hostname: 'https://kuake.netlify.app'
   },
   // #region fav
   // 这个是 Google ana，不要错了，目前添加不了，后面再说

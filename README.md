@@ -47,7 +47,7 @@
 
 
 ## 📚 百家讲坛资源
-**在线观看：** [https://res.cqcc.cc/baijiajiangtan](https://res.cqcc.cc/baijiajiangtan)
+**在线观看：** [https://kuake.netlify.app/baijiajiangtan](https://kuake.netlify.app/baijiajiangtan)
 
 ### 📥 资源下载
 | 文件名称 | 链接 |
