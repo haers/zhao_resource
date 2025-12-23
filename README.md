@@ -44,8 +44,8 @@
 如果资源对你有所帮助，可以打赏一下～
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="./github/wxzsm.jpg" alt="微信" style="width: 45%; height: 45%;"/>
-  <img src="./github/zfbzsm.jpeg" alt="支付宝" style="width: 45%; height: 45%;"/>
+  <img src="./github/wxzsm.png" alt="微信" style="width: 45%; height: 45%;"/>
+  <img src="./github/zfbzsm.png" alt="支付宝" style="width: 45%; height: 45%;"/>
 </div>
 
 

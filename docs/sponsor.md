@@ -20,13 +20,13 @@ next: false
 
 ## 微信&支付宝
 
-<!-- ![微信](./public/wxzsm.jpg)
+<!-- ![微信](./public/wxzsm.png)
 
-![支付宝](./public/zfbzsm.jpeg) -->
+![支付宝](./public/zfbzsm.png) -->
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="./public/wxzsm.jpg" alt="微信" style="width: 45%;"/>
-  <img src="./public/zfbzsm.jpeg" alt="支付宝" style="width: 45%;"/>
+  <img src="./public/wxzsm.png" alt="微信" style="width: 45%;"/>
+  <img src="./public/zfbzsm.png" alt="支付宝" style="width: 45%;"/>
 </div>
 
 
@@ -35,6 +35,6 @@ next: false
 - 更新 [toc显示多级标题](./markdown.md#目录) 使用说明 -->
 
 <!-- <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="./wxzsm.jpg" alt="微信" style="width: 45%;"/>
-  <img src="./zfbzsm.jpeg" alt="支付宝" style="width: 45%;"/>
+  <img src="./wxzsm.png" alt="微信" style="width: 45%;"/>
+  <img src="./zfbzsm.png" alt="支付宝" style="width: 45%;"/>
 </div> -->
