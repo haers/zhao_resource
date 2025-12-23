@@ -49,13 +49,16 @@
 ## 💝 支持我们
 如果资源对您有帮助，欢迎支持我们：
 
-**微信赞赏 & 支付宝赞赏**  
+**微信赞赏**  
+![微信赞赏码](./public/wxzsm.png)
+
+**支付宝赞赏**  
+![支付宝赞赏码](./public/zfbzsm.png)
+
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="./md/image/wxzsm.png" alt="微信" style="width: 45%; height: 45%;"/>
-    <img src="./md/image/zfbzsm.png" alt="支付宝" style="width: 45%; height: 45%;"/>
+  <img src="./public/wxzsm.png" alt="微信" style="width: 45%; height: 45%;"/>
+    <img src="./public/zfbzsm.png" alt="支付宝" style="width: 45%; height: 45%;"/>
 </div>
-
-
 
 ---
 

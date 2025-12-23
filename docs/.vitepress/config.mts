@@ -223,6 +223,7 @@ export default defineConfig({
       {
         text: '资源导航【收藏此链接，防走丢】', link: '/nav'
       },
+      
       // {
       //   //分组标题1
       //   text: '介绍',
@@ -285,11 +286,10 @@ export default defineConfig({
       // },
       {
         //分组标题3
-        text: '其他站点',
+        text: '教程',
         collapsed: false,
         items: [
-          { text: '个人主页', link: 'https://cqcc.cc/' },
-          { text: '新闻站', link: 'https://news.cqcc.cc/' },
+          { text: '资源查找教程', link: 'find-course' },
         ],
       },
     ] ,
