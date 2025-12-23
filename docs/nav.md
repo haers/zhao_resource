@@ -1,4 +1,4 @@
-# 资源分享平台
+# 小赵资源分享平台
 
 ## 📢 重要声明
 
@@ -31,6 +31,20 @@
 
 ---
 
+
+## 💝 支持我们
+如果资源对您有帮助，欢迎支持我们：
+
+**微信赞赏 & 支付宝赞赏**  
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="./public/wxzsm.png" alt="微信" style="width: 45%; height: 45%;"/>
+    <img src="./public/zfbzsm.png" alt="支付宝" style="width: 45%; height: 45%;"/>
+</div>
+
+---
+
+
 ## 📚 百家讲坛资源
 **在线观看：** [https://res.cqcc.cc/baijiajiangtan](https://res.cqcc.cc/baijiajiangtan)
 
@@ -43,22 +57,6 @@
 | 🩺 中医必读百部名著 | [下载](https://pan.quark.cn/s/0b7d997eb265) |
 | 🧘 孔子庄子孟子老子大合集 | [下载](https://pan.quark.cn/s/591f7ef5bca6) |
 | 📄 必看说明.pdf | [下载](https://pan.quark.cn/s/3478ad5f2ece) |
-
----
-
-## 💝 支持我们
-如果资源对您有帮助，欢迎支持我们：
-
-**微信赞赏**  
-![微信赞赏码](./public/wxzsm.png)
-
-**支付宝赞赏**  
-![支付宝赞赏码](./public/zfbzsm.png)
-
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="./public/wxzsm.png" alt="微信" style="width: 45%; height: 45%;"/>
-    <img src="./public/zfbzsm.png" alt="支付宝" style="width: 45%; height: 45%;"/>
-</div>
 
 ---
 

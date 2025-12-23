@@ -1,4 +1,4 @@
-# 资源分享平台
+# 小赵资源分享平台
 
 ## 📢 重要声明
 
@@ -31,6 +31,21 @@
 
 ---
 
+
+## 💝 支持我们
+如果资源对您有帮助，欢迎支持我们：
+
+**微信赞赏 & 支付宝赞赏**  
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="./md/image/wxzsm.png" alt="微信" style="width: 45%; height: 45%;"/>
+    <img src="./md/image/zfbzsm.png" alt="支付宝" style="width: 45%; height: 45%;"/>
+</div>
+
+
+
+---
+
+
 ## 📚 百家讲坛资源
 **在线观看：** [https://res.cqcc.cc/baijiajiangtan](https://res.cqcc.cc/baijiajiangtan)
 
@@ -46,18 +61,6 @@
 
 ---
 
-## 💝 支持我们
-如果资源对您有帮助，欢迎支持我们：
-
-**微信赞赏 & 支付宝赞赏**  
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="./md/image/wxzsm.png" alt="微信" style="width: 45%; height: 45%;"/>
-    <img src="./md/image/zfbzsm.png" alt="支付宝" style="width: 45%; height: 45%;"/>
-</div>
-
-
-
----
 
 ## ❓ 问题反馈
 如需帮忙寻找资源或有任何问题，请提交 [Issue 反馈](https://github.com/haers/zhao_resource/issues)。
