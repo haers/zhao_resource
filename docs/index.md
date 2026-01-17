@@ -4,53 +4,47 @@ layout: home
 title: 首页
 
 hero:
-  name: 资源站
+  name: 小赵资源站
   text: "乐于分享，欢迎交流"
-  tagline: 如果你也想拥有它，那跟我一起做吧
+  tagline: 所有资源均为无偿分享, 欢迎交流与贡献
   image:
     src: /logo.png
     alt: 资源站首页图片
   actions:
     - theme: brand
-      text: 开始
+      text: 快速开始
       link: /nav
     - theme: alt
-      text: GitHub
-      link: https://github.com/haers
+      text: 源码链接
+      link: https://github.com/haers/zhao_resource
     - theme: sponsor
       text: 赞助
       link: /sponsor
 
 features:
-  
-  - icon: 📚
-    title: 海量优质资源
-    details: 涵盖设计、开发、学术等全领域资源，持续更新最新高质量内容
-    link: /k12
-    linkText: 浏览分类
+  - icon: 🎓
+    title: 学业资源
+    details: 涵盖从学前启蒙（宝宝巴士、卡由）到高中冲刺（八省联考题）的全阶段资源，包含课程、备考资料与动画，一站式满足系统学习需求。
 
-  - icon: 🔍
-    title: 智能精准搜索
-    details: 支持关键词联想/多条件筛选，快速定位所需资源
+  - icon: 💼
+    title: 职场技能
+    details: 汇集办公软件、设计剪辑（Pr/Ps）、编程开发等专业教程与模板，助力提升工作效率与职场竞争力。
 
-  - icon: 🌐
-    title: 极速下载体验
-    details: 全球CDN加速分发，多线程下载技术保障高速稳定
+  - icon: 🧠
+    title: 知识拓展
+    details: 收录百家讲坛、TED演讲、BBC纪录片及文史经法经典读物，为用户提供课堂外的深度知识充电。
 
-  - icon: 🤝
-    title: 创作者生态
-    details: 支持用户投稿/评分/打赏，构建良性资源共享社区
-    link: /sponsor
-    linkText: 参与分享
+  - icon: 🌸
+    title: 生活兴趣
+    details: 包含养生保健、音乐、摄影、生活技巧等多样化内容，服务于用户的个人爱好与品质生活提升。
 
-  - icon: 🔒
-    title: 安全可靠
-    details: 人工审核 + 自动检测双重保障，拒绝低质/违规内容
+  - icon: 🛠️
+    title: 软件工具
+    details: 提供精选的Windows/Mac软件、黑科技工具及安全插件，并附带安装指南，切实解决工具获取与使用难题。
 
-  - icon: 📱
-    title: 多端适配
-    details: 完美兼容桌面/移动设备，支持PWA离线访问
-
+  - icon: 🗃️
+    title: 经典典藏
+    details: 精心整理绝版书、有声书、天涯论坛神帖、经典影音等稀缺与怀旧资源，致力于保存和分享数字记忆。
 ---
 
 <HomeUnderline />

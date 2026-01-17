@@ -1,7 +1,6 @@
 import { defineConfig } from 'vitepress'
 
 import { devDependencies } from '../../package.json'
-import markdownItTaskCheckbox from 'markdown-it-task-checkbox'
 import { groupIconMdPlugin, groupIconVitePlugin, localIconLoader } from 'vitepress-plugin-group-icons'
 import { MermaidMarkdown, MermaidPlugin } from 'vitepress-plugin-mermaid';
 
@@ -88,7 +87,6 @@ export default defineConfig({
       },
 
       md.use(groupIconMdPlugin) //代码组图标
-      md.use(markdownItTaskCheckbox) //todo
       md.use(MermaidMarkdown); 
 
     }
@@ -242,9 +240,10 @@ export default defineConfig({
         ]
       },
       {
-        text: '教育【书籍，k12，考研考公】',
+        text: '优质资源',
         collapsed: false,
         items: [
+          { text: '学生专区（K12）', link: '/student-hub' },
           { text: 'k12学前小学初中高中', link: '/k12' },
           { text: '摄影剪辑', link: '/photography-editing' },
           { text: '考研考公&职业办公', link: '/exam-and-career-preparation' },
@@ -263,30 +262,9 @@ export default defineConfig({
         ]
       },
       
-      // {
-      //   text: '软件',
-      //   collapsed: false,
-      //   items: [
-      //     { text: '黑科技工具', link: '/software' },
-      //     // { text: 'Windows 软件', link: '/software/windows' },
-      //     // { text: '苹果软件', link: '/software/mac' },
-      //     // { text: '黑科技工具', link: '/software/tools' }
-      //   ]
-      // },
-      // {
-      //   text: '影视',
-      //   collapsed: false,
-      //   items: [
-      //     { text: '电影合集', link: '/movie' },
-      //     { text: '电视剧', link: '/tv-show' },
-      //     { text: '综艺', link: '/variety-show' },
-      //     { text: '动漫动画', link: '/anime' },
-      //     { text: '音乐', link: '/music' },
-      //   ]
-      // },
+      
       {
-        //分组标题3
-        text: '教程',
+        text: '工具',
         collapsed: false,
         items: [
           { text: '资源查找教程', link: 'find-course' },
@@ -334,7 +312,6 @@ export default defineConfig({
                   selectText: '选择',
                   navigateText: '切换',
                   closeText: '关闭',
-                  searchByText: '搜索提供者'
                 },
                 noResultsScreen: {
                   noResultsText: '无法找到相关结果',
