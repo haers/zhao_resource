@@ -1,4 +1,4 @@
-<!-- .vitepress/theme/MyLayout.vue.vue -->
+<!-- .vitepress/theme/MyLayout.vue -->
 
 <script setup lang="ts">
 import { useData } from 'vitepress'
@@ -40,6 +40,7 @@ provide('toggle-appearance', async ({ clientX: x, clientY: y }: MouseEvent) => {
     {
       duration: 300,
       easing: 'ease-in',
+      fill: 'forwards',
       pseudoElement: `::view-transition-${isDark.value ? 'old' : 'new'}(root)`
     }
   )
@@ -52,7 +53,6 @@ provide('toggle-appearance', async ({ clientX: x, clientY: y }: MouseEvent) => {
       <backtotop />
     </template>
     <template #layout-top>
-      <notice />
       <MouseFollower />
       <MouseClick />
     </template>
@@ -84,7 +84,7 @@ provide('toggle-appearance', async ({ clientX: x, clientY: y }: MouseEvent) => {
 }
 
 /* 修正因视图过渡导致的月牙图标偏移 */
-.check .icon {
+.VPSwitchAppearance .check .icon {
   top: -2px;
 }
 </style>

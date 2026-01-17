@@ -1,7 +1,6 @@
 <script setup lang="ts">
 import { ref } from 'vue'
-const visible = ref(false)
-// 关闭公告
+const visible = ref(true)
 
 function closetz() {
     visible.value = false
