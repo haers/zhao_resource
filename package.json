@@ -7,6 +7,7 @@
     "busuanzi.pure.js": "^1.0.3",
     "canvas-confetti": "^1.9.3",
     "less": "^4.2.2",
+    "markdown-it-task-checkbox": "^1.0.6",
     "medium-zoom": "^1.1.0",
     "mermaid": "^11.4.1",
     "nprogress-v2": "^1.1.10",

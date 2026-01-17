@@ -1,5 +1,5 @@
 import { defineConfig } from 'vitepress'
-
+import markdownItTaskCheckbox from 'markdown-it-task-checkbox'
 import { devDependencies } from '../../package.json'
 import { groupIconMdPlugin, groupIconVitePlugin, localIconLoader } from 'vitepress-plugin-group-icons'
 import { MermaidMarkdown, MermaidPlugin } from 'vitepress-plugin-mermaid';
@@ -87,6 +87,7 @@ export default defineConfig({
       },
 
       md.use(groupIconMdPlugin) //代码组图标
+      md.use(markdownItTaskCheckbox)
       md.use(MermaidMarkdown); 
 
     }
