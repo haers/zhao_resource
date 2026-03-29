@@ -307,7 +307,7 @@ export default defineConfig({
           { text: '1. 学生专区（K12）', link: '/student-hub' },
           { text: '2. 升学考公考研', link: '/exam-career' },
           { text: 'k12学前小学初中高中', link: '/k12' },
-          { text: '摄影剪辑', link: '/photography-editing' },
+          { text: '4. 摄影剪辑', link: '/photography-editing' },
           { text: '考研考公&职业办公', link: '/exam-and-career-preparation' },
           { text: '语言', link: '/language' },
           { text: '书籍小说', link: '/book-novel' },
